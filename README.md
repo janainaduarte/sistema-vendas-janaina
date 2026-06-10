@@ -5,3 +5,5 @@ Prática da Disciplina de Gerenciamento de Configuração
 Feature de Login implementada.
 Fonte novo criado.
 
+# Criação da RELEASE v1.0.0
+teste de deploy e release
