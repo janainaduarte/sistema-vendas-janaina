@@ -7,3 +7,6 @@ Fonte novo criado.
 
 # Criação da RELEASE v1.0.0
 teste de deploy e release
+
+# Hotfix bug cedilha login
+correção branch hotfix/correcao-login
